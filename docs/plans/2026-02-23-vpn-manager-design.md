@@ -1,7 +1,7 @@
 # Design Doc: VPN Manager Integration
 
 ## Overview
-Adds institutional VPN management capabilities to the Stay Awake utility. It allows connecting/disconnecting to a pre-configured Windows VPN profile in the background, with support for automatic disconnection after a timer.
+Adds corporate VPN management capabilities to the Stay Awake utility. It allows connecting/disconnecting to a pre-configured Windows VPN profile in the background, with support for automatic disconnection after a timer.
 
 ## Technical Specifications
 - **Connection Method:** `rasdial.exe` (Background process)
